@@ -1,0 +1,20 @@
+{
+  "name": "savingdata-to-json",
+  "version": "1.0.0",
+  "description": "how to save data to JSON for startupisteam",
+  "main": "index.js",
+  "scripts": {
+    "test": "test"
+  },
+  "keywords": [
+    "JSON",
+    "query",
+    "node"
+  ],
+  "author": "yoni ben nifla",
+  "license": "ISC",
+  "dependencies": {
+    "ejs": "^3.1.6",
+    "express": "^4.17.1"
+  }
+}
